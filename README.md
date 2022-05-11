@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [Problem Statement](#Problem-Statement)
+* [Problem Statement](#problem-statement)
 * [Technologies Used](#technologies-used)
-* [Data Cleaning](#Data-Cleaning)
-* [Analysis Flow](#Analysis-Flow)
+* [Data Cleaning](#data-cleaning)
+* [Analysis Flow](#analysis-flow)
 * [Conclusions](#conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -60,5 +60,5 @@
 
 
 ## Contact
-Created by [@https://github.com/SuryaV21][]
+Created by [@https://github.com/SuryaV21] and [@https://github.com/subhashchandrabose-k]
  - feel free to contact me!
